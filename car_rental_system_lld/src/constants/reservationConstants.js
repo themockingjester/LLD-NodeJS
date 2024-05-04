@@ -1,0 +1,7 @@
+module.exports = {
+  RESERVATION_STATUS: {
+    BOOKED: "BOOKED",
+    CANCELLED: "CANCELLED",
+    COMPLETED: "COMPLETED",
+  },
+};
